@@ -1,4 +1,5 @@
-<!--<div align="center">
+<!--
+<div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=fff)
@@ -16,11 +17,14 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=FFF)
   
-#
+</div>
+-->
+<div align="center">
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yumble&theme=aura)&emsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yumble&layout=compact&theme=aura)
 </div>
--->
 <!--
 **yumbl/yumbl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
